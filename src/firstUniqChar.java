@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class firstUniqChar {
+public class FirstUniqChar {
 
 	public char firstUniqChar(String s) {
 	    // 你的代码写在这里
@@ -29,7 +29,7 @@ public class firstUniqChar {
 
 
 	public static void main (String[] args) {
-		firstUniqChar sol = new firstUniqChar();
+		FirstUniqChar sol = new FirstUniqChar();
 
 		 String test1 = "leetcode";
 	        System.out.println("字符串: " + test1);
